@@ -11,6 +11,6 @@ class EmailParser
   end
   
   def parse
-    emails.include? 
+    emails.include? ","
   end
 end
